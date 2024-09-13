@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Noobfromdafuture
+- 👀 I’m interested in cybersecurity and back-end
+- 🌱 I’m currently learning JavaScript, Rust and pentesting
+- 📫 How to reach me: felipelimaport98@gmail.com
+- ⚡ Fun fact: Bilingual (brpt and eng), I can play Chess and I like technology ;)
